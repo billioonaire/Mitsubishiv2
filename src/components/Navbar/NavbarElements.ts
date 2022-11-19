@@ -9,7 +9,6 @@ export const Container = styled.nav`
     align-items: center;
     z-index: 999;
 
-    background: rgba( 255, 255, 255, 0.25 );
     backdrop-filter: blur( 4.5px );
     -webkit-backdrop-filter: blur( 4.5px );
 
